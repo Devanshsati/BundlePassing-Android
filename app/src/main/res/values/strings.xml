@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bundle Passing</string>
+    <string name="bundle_passing">Bundle Passing!</string>
+    <string name="send">Send</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="phone_no">Enter Phone No.</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_your_text">Enter your Text</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="result">Result</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="display_name">Name: %1$s</string>
+    <string name="display_email">Email: %1$s</string>
+    <string name="display_phone">Phone: %1$s</string>
+    <string name="display_address">Address: %1$s</string>
+</resources>
